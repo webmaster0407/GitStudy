@@ -8,4 +8,3 @@ gir push
 git checkout -b <branch>
 git push -u origin <branch>
 
-branch1 add
