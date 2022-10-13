@@ -4,3 +4,7 @@ git add .
 git commit -m "create branch1"
 gir push
 
+ I push a new local branch to a remote Git repository and track it too?
+git checkout -b <branch>
+git push -u origin <branch>
+
